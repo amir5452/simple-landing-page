@@ -25,5 +25,12 @@ To view or modify this template:
    ```bash
    git clone https://github.com/yourusername/move-it.git
 ## Screenshots
+![A picture of the hero section of the website](screenshots/hero.png)
 
+## Future Enhancements
+- Add animations to the hero and features section.
+- Include a pricing section for services.
+- Enhance the footer with social media links.
 
+## Contributing
+- **Contributions are welcome!** Fork the repository and create a pull request for suggestions or improvements.
